@@ -1,5 +1,6 @@
 Inventory file management system using python.
 Functionalities included-
+
 1.Product file: Product id, name, price, stock, discount
 a)Add new product 
 b)Restock
