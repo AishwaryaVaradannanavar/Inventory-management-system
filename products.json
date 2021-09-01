@@ -1,0 +1,188 @@
+{
+  "001": {
+    "pname": "t shirt",
+    "price": 500,
+    "quantityinstock": 44,
+    "discount": 5
+  },
+  "002": {
+    "pname": "apple",
+    "price": 20,
+    "quantityinstock": 30,
+    "discount": 0
+  },
+  "003": {
+    "pname": "banana",
+    "price": 10,
+    "quantityinstock": 23,
+    "discount": 0
+  },
+  "004": {
+    "pname": "oil",
+    "price": 300,
+    "quantityinstock": 5,
+    "discount": 10
+  },
+  "005": {
+    "pname": "bread",
+    "price": 30,
+    "quantityinstock": 2,
+    "discount": 0
+  },
+  "006": {
+    "pname": "biscuit",
+    "price": 20,
+    "quantityinstock": 10,
+    "discount": 0
+  },
+  "007": {
+    "pname": "cake",
+    "price": 50,
+    "quantityinstock": 5,
+    "discount": 0
+  },
+  "008": {
+    "pname": "juice",
+    "price": 40,
+    "quantityinstock": 5,
+    "discount": 1
+  },
+  "009": {
+    "pname": "surf excel",
+    "price": 500,
+    "quantityinstock": 5,
+    "discount": 10
+  },
+  "010": {
+    "pname": "eggs",
+    "price": 8,
+    "quantityinstock": 50,
+    "discount": 0
+  },
+  "011": {
+    "pname": "toothpaste",
+    "price": 30,
+    "quantityinstock": 10,
+    "discount": 0
+  },
+  "012": {
+    "pname": "wheat flour",
+    "price": 600,
+    "quantityinstock": 4,
+    "discount": 10
+  },
+  "013": {
+    "pname": "milk",
+    "price": 30,
+    "quantityinstock": 10,
+    "discount": 0
+  },
+  "014": {
+    "pname": "harpic",
+    "price": 300,
+    "quantityinstock": 7,
+    "discount": 10
+  },
+  "015": {
+    "pname": "face cream",
+    "price": 500,
+    "quantityinstock": 5,
+    "discount": 10
+  },
+  "016": {
+    "pname": "dairy milk",
+    "price": 30,
+    "quantityinstock": 30,
+    "discount": 0
+  },
+  "017": {
+    "pname": "kitkat",
+    "price": 20,
+    "quantityinstock": 20,
+    "discount": 0
+  },
+  "018": {
+    "pname": "spaghetti",
+    "price": 400,
+    "quantityinstock": 5,
+    "discount": 5
+  },
+  "019": {
+    "pname": "sanitary napkin",
+    "price": 450,
+    "quantityinstock": 10,
+    "discount": 5
+  },
+  "020": {
+    "pname": "protien powder",
+    "price": 600,
+    "quantityinstock": 5,
+    "discount": 2
+  },
+  "021": {
+    "pname": "makhana",
+    "price": 40,
+    "quantityinstock": 8,
+    "discount": 2
+  },
+  "022": {
+    "pname": "coffee powder",
+    "price": 400,
+    "quantityinstock": 10,
+    "discount": 10
+  },
+  "023": {
+    "pname": "gloves",
+    "price": 180,
+    "quantityinstock": 5,
+    "discount": 0
+  },
+  "024": {
+    "pname": "panner",
+    "price": 100,
+    "quantityinstock": 10,
+    "discount": 0
+  },
+  "025": {
+    "pname": "handwash",
+    "price": 400,
+    "quantityinstock": 5,
+    "discount": 5
+  },
+  "026": {
+    "pname": "tea powder",
+    "price": 200,
+    "quantityinstock": 30,
+    "discount": 0
+  },
+  "027": {
+    "pname": "dosa batter",
+    "price": 100,
+    "quantityinstock": 10,
+    "discount": 0
+  },
+  "028": {
+    "pname": "book",
+    "price": 40,
+    "quantityinstock": 10,
+    "discount": 0
+  },
+  "029": {
+    "pname": "chewing gum",
+    "price": 10,
+    "quantityinstock": 50,
+    "discount": 0
+  },
+  "030": {
+    "pname": "scissors",
+    "price": 40,
+    "quantityinstock": 10,
+    "discount": 0
+  },
+  "031": {
+    "pname": "pencil",
+    "price": 5,
+    "quantityinstock": 70,
+    "discount": 0
+  }
+}
