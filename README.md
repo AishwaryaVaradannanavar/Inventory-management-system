@@ -16,3 +16,6 @@ a)adds discount
 b)uses available points of the member
 c)adds points
 d)displays total
+
+4.Sales count
+every sale done is recorded
